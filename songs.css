@@ -1,0 +1,35 @@
+body{
+	background-image: linear-gradient(to right,#FFA0A0 30%,#FFE3E3 70%);
+	font-family: 'Alegreya', serif;
+}
+h1{
+	text-align: center;
+	font-size: 4rem;
+}
+.songList{
+	margin-left: 20px;
+	margin-top: 20px;
+	display: inline-block;
+}
+h2{
+	 position: relative; 
+	 text-align: center;
+}
+.btn {
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  font-family: 'Alegreya', serif;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  background: #CD113B;
+  padding: 10px 20px 10px 20px;
+  border: solid gold 2px;
+  text-decoration: none;
+  margin-right: 20px;
+}
+.btn:hover {
+  background: #201eb8;
+  text-decoration: none;
+}

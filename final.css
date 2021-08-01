@@ -1,0 +1,27 @@
+body{
+	background-image: linear-gradient(to right,black,grey);
+	font-family: 'Alegreya', serif;
+}
+h1{
+	text-align: center;
+	font-size: 4rem;
+	color: white;
+}
+.hide{
+  visibility: hidden;
+}
+.celeb{
+  visibility: hidden;
+}
+.btn2{
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: black;
+  font-size: 20px;
+  background: #001E6C;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+  margin-bottom: 3%;
+}

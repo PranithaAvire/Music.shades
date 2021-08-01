@@ -1,0 +1,68 @@
+body{
+	background-image: linear-gradient(to right,grey,#FFA0A0);
+	font-family: 'Alegreya', serif;
+}
+h1{
+	text-align: center;
+	font-size: 4rem;
+}
+img{
+	margin-left: -5px;
+}
+.btn{
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: black;
+  font-size: 20px;
+  background: #FBC7F7;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+  margin-bottom: 3%;
+}
+.correct{
+	-webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: black;
+  font-size: 20px;
+  background: green;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+  margin-bottom: 3%;
+}
+.wrong{
+	-webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: red;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+  margin-bottom: 3%;
+  
+}
+.btn1{
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: black;
+  font-size: 20px;
+  background: #001E6C;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+}
+.btn1:hover{
+  background-color: white;
+}
+.hide{
+  visibility: hidden;
+}
+.celeb{
+  visibility: hidden;
+}
